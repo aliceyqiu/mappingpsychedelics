@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import videoSrc from '../../assets/MSB.psilocybin.mp4';
 import styles from './N13Exhibit.module.css';

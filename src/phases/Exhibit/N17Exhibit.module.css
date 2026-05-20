@@ -46,6 +46,7 @@
   border-radius: 12px;
   padding: 1.5rem;
   z-index: 20;
+  -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
   display: flex;
   flex-direction: column;
