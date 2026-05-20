@@ -1,0 +1,103 @@
+/* Shared base */
+.continentTooltip,
+.nodeTooltip {
+  position: fixed;
+  pointer-events: none;
+  z-index: var(--z-tooltip);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border-radius: var(--radius-md);
+}
+
+/* ── Continent (higher level) ── */
+.continentTooltip {
+  background: var(--color-surface, #111118);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-left: 3px solid var(--continent-color, var(--color-text));
+  padding: 0.9rem 1.2rem 0.6rem 1rem;
+  max-width: 280px;
+}
+
+.continentName {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--continent-color, var(--color-text));
+  margin-bottom: 0.35rem;
+}
+
+.tagline {
+  font-family: var(--font-serif);
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--color-text);
+  line-height: 1.45;
+}
+
+.previewNodes {
+  display: flex;
+  flex-direction: column;
+  gap: 0.18rem;
+  padding-top: 0.5rem;
+}
+
+.previewNode {
+  font-size: 0.72rem;
+  color: var(--color-text-dim);
+  padding-left: 0.65rem;
+  position: relative;
+  line-height: 1.4;
+}
+
+.previewNode::before {
+  content: '·';
+  position: absolute;
+  left: 0;
+  color: rgba(255, 194, 80, 0.6);
+}
+
+/* ── Node (lower level) ── */
+.nodeTooltip {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  align-items: flex-start;
+  background: rgba(10, 10, 15, 0.82);
+  border: 1px solid var(--color-border);
+  padding: .8rem .9rem 1rem .9rem;
+  max-width: 280px;
+}
+
+.nodeTitle {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--color-text);
+  line-height: 1.35;
+}
+
+.nodeInsight {
+  font-size: 0.8rem;
+  color: var(--color-text-dim);
+  line-height: 1.45;
+  font-style: italic;
+}
+
+.exploreBtn {
+  pointer-events: auto;
+  display: block;
+  margin-top: 0.55rem;
+  font-size: 0.7rem;
+  color: var(--color-text-dim);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: color var(--transition-fast);
+}
+
+.exploreBtn:hover {
+  color: var(--color-text);
+}

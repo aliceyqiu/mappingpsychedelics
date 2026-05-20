@@ -1,0 +1,678 @@
+{
+  "nodes": {
+    "N01": {
+      "id": "N01",
+      "title": "Psychedelics, Laws, and Policies",
+      "type": "immersive",
+      "entry_mode": "guided_sequence",
+      "continent": "history",
+      "summary": "A timeline of key U.S. and Texas laws and policies — from DARE to the Controlled Substances Act to Texas Senate Bill 2308 — that have shaped how psychedelics are perceived and regulated. Texas has emerged as a national leader in psychedelic mental health policy reform.",
+      "content": {
+        "explanation": "The legal history of psychedelics in the United States is more complex than it might first appear. From the Controlled Substances Act of 1970 to DARE programs in schools to recent state-level reform efforts, laws and policies have deeply influenced what people think, how they talk, and what researchers are allowed to study. Texas, in particular, has taken a leading role in pushing this conversation forward.",
+        "key_points": [
+          "The history of psychedelics in the U.S. is richer and more layered than most people realize.",
+          "Laws and policies shape not just what is legal, but how communities talk about and understand psychedelics.",
+          "The Controlled Substances Act (1970) classified most psychedelics as Schedule I, halting research for decades.",
+          "DARE programs and the War on Drugs reinforced negative public perceptions of psychedelics through the 1980s and 90s.",
+          "Texas has been a national trailblazer in psychedelic mental health policy, including with Texas Senate Bill 2308."
+        ],
+        "interaction_hint": "Users move through a guided sequence of major policy moments that shaped the legal and cultural landscape of psychedelics in the U.S. and Texas."
+      }
+    },
+    "N02": {
+      "id": "N02",
+      "title": "Did You Know...",
+      "type": "callout",
+      "entry_mode": "tooltip",
+      "continent": "science",
+      "summary": "A striking statistic about how common PTSD is among veterans and first responders — groups that face some of the highest rates of mental health challenges and the greatest gaps in effective treatment.",
+      "content": {
+        "explanation": "Veterans and first responders experience PTSD at rates far higher than the general population. These numbers reveal an urgent, ongoing need for mental health treatments that can actually reach people who have tried other options without success.",
+        "key_points": [
+          "At least 7% of veterans will experience PTSD in their lifetime (U.S. Department of Veterans Affairs).",
+          "An estimated 30% of first responders will have PTSD in their lifetime (SAMHSA).",
+          "These figures point to a significant gap in effective mental health care for people in high-risk service roles."
+        ],
+        "interaction_hint": "A brief callout surfaces a key statistic to provide context for why new mental health treatment options matter."
+      }
+    },
+    "N03": {
+      "id": "N03",
+      "title": "Did You Know...",
+      "type": "callout",
+      "entry_mode": "tooltip",
+      "continent": "harm-reduction",
+      "summary": "A brief introduction to psychedelic guides — trained individuals who support people before, during, and after a psychedelic experience to help make it safe and meaningful.",
+      "content": {
+        "explanation": "Taking psychedelics is not meant to be a solo experience. A trained guide provides support throughout the process — helping set intentions beforehand, staying present during the experience, and supporting integration afterward. Having proper guidance is considered just as important as the substance itself.",
+        "key_points": [
+          "A psychedelic guide is a trained person who supports individuals through psychedelic experiences.",
+          "Guidance covers preparation before, presence during, and integration after the experience.",
+          "Having a guide is considered a key element of responsible psychedelic use.",
+          "There are right and wrong ways to approach psychedelic use — a guide helps navigate the difference."
+        ],
+        "interaction_hint": "A short callout introduces the role of psychedelic guides and why their support matters."
+      }
+    },
+    "N04": {
+      "id": "N04",
+      "title": "Meet the Organisms",
+      "type": "immersive",
+      "entry_mode": "full_screen",
+      "continent": "indigenous-knowledge",
+      "summary": "An interactive exploration of the natural organisms — mushrooms, plants, and cacti — that produce psychedelic compounds, and the ecosystems they come from.",
+      "content": {
+        "explanation": "Psychedelic compounds like psilocybin, DMT, ibogaine, and mescaline don't come from laboratories. They emerge from living organisms that have coexisted with humans for thousands of years. This experience invites users to explore those organisms and learn about the natural ecosystems they are part of.",
+        "key_points": [
+          "Psilocybin is produced by over 200 species of mushrooms distributed across the globe.",
+          "DMT occurs naturally in many plant species and has been used in ceremonial contexts by various cultures.",
+          "Ibogaine is derived from the root bark of the iboga shrub, native to Central Africa.",
+          "Mescaline is found in several cacti, including peyote and San Pedro, with roots in indigenous traditions.",
+          "These psychedelic compounds are natural products of ecosystems, not synthetic inventions."
+        ],
+        "interaction_hint": "Users point and click to explore different organisms and discover the psychedelic compounds they produce."
+      }
+    },
+    "N05": {
+      "id": "N05",
+      "title": "Learn More: Set, Setting, Integration",
+      "type": "standard",
+      "entry_mode": "guided_sequence",
+      "continent": "harm-reduction",
+      "summary": "An explanation of set, setting, and integration — three concepts considered essential to safe, meaningful psychedelic experiences and the work that follows them.",
+      "content": {
+        "explanation": "Whether a psychedelic experience is difficult or transformative often comes down to three factors: your mindset going in, the environment around you, and the work you do afterward to understand and apply what happened. These aren't optional — they are core to what responsible psychedelic use looks like.",
+        "key_points": [
+          "Set refers to your inner mindset and emotional state before the experience.",
+          "Setting refers to the physical space and the people around you during the experience.",
+          "Integration is the ongoing process of reflecting on and applying what surfaced during the experience to your daily life.",
+          "Psychedelic use is not meant to be a solo endeavor — community and support matter throughout.",
+          "MAPS Integration Station (maps.org/integration-station) is a publicly available resource for learning more."
+        ],
+        "interaction_hint": "A guided walkthrough explains each of the three concepts with definitions and context for why each one matters."
+      }
+    },
+    "N06": {
+      "id": "N06",
+      "title": "Learn More: Psychedelics & Addiction",
+      "type": "standard",
+      "entry_mode": "side_panel",
+      "continent": "science",
+      "summary": "An overview of current research into how psychedelics are being studied as potential treatments for addiction, including alcohol, tobacco, and opioids.",
+      "content": {
+        "explanation": "Psychedelics themselves are not considered addictive, and researchers are studying whether they may help people overcome other addictions. Early results with psilocybin, LSD, ketamine, and ibogaine show promise across several types of substance use disorders, though research is ongoing.",
+        "key_points": [
+          "Psychedelics are considered non-addictive compounds.",
+          "Studies using psilocybin and LSD have shown promising results for alcohol and tobacco cessation.",
+          "Ibogaine has been studied for opioid use disorder, with research pointing to potential reductions in withdrawal symptoms.",
+          "Ketamine-assisted therapy is being explored for both depression and addiction.",
+          "Results are promising but not yet conclusive — research is still in progress across different populations."
+        ],
+        "interaction_hint": "A side panel presents an overview of research findings on psychedelics and addiction, with links to key studies."
+      }
+    },
+    "N07": {
+      "id": "N07",
+      "title": "Learn More: Veteran Stories",
+      "type": "standard",
+      "entry_mode": "tooltip",
+      "continent": "personal-narrative",
+      "summary": "A look at real veteran accounts and the work of organizations connecting veterans with psychedelic-assisted therapy — including VETS, a nonprofit focused on ending veteran suicide.",
+      "content": {
+        "explanation": "Veterans Exploring Treatment Solutions (VETS) is a nonprofit dedicated to ending veteran suicide by connecting veterans with psychedelic-assisted therapy through grants, education, and community support. Their work also includes funding scientific research and pushing for policy changes that would expand access.",
+        "key_points": [
+          "VETS (Veterans Exploring Treatment Solutions) connects veterans with psychedelic-assisted therapy through grants and community support.",
+          "The organization funds scientific research on psychedelics and their effectiveness for veteran mental health.",
+          "VETS advocates for policy changes that would expand legal access to these treatments.",
+          "Veteran suicide and PTSD remain critical, undertreated public health issues."
+        ],
+        "interaction_hint": "A tooltip surfaces veteran stories and resources from the VETS organization for users who want to learn more."
+      }
+    },
+    "N08": {
+      "id": "N08",
+      "title": "Story, Story, Story",
+      "type": "immersive",
+      "entry_mode": "side_panel",
+      "continent": "personal-narrative",
+      "summary": "A collection of personal stories from people — veterans, caregivers, patients, and clinicians — who have had meaningful experiences with psychedelics and mental health treatment.",
+      "content": {
+        "explanation": "Stories are one of the most powerful ways to understand experiences that are hard to put into words. This space invites users to hear directly from individuals whose lives have been shaped by psychedelic-assisted care — in their own voices and on their own terms.",
+        "key_points": [
+          "Personal narratives offer perspectives that clinical data alone cannot capture.",
+          "Stories represent a range of outcomes, backgrounds, and relationships to psychedelic use.",
+          "Each story reflects one individual's experience — not a guaranteed or universal result.",
+          "Hearing diverse accounts can build empathy and understanding across different viewpoints."
+        ],
+        "interaction_hint": "Users click on a person or avatar to open their personal story and learn about their experience with psychedelics and mental health."
+      }
+    },
+    "N09": {
+      "id": "N09",
+      "title": "Learn More: Risks",
+      "type": "standard",
+      "entry_mode": "side_panel",
+      "continent": "harm-reduction",
+      "summary": "A clear and honest overview of the real risks associated with psychedelic use, including psychological risks, dangerous contexts, and health conditions that make psychedelics inadvisable.",
+      "content": {
+        "explanation": "Psychedelics carry genuine risks that vary by person, dose, and context. While they are considered low in physical toxicity compared to many substances, psychological risks are real — especially for people with certain mental health histories or those using in unsafe settings.",
+        "key_points": [
+          "High doses, impure substances, wrong mindset, or an unsafe environment can lead to frightening or traumatic experiences.",
+          "People with a personal or family history of schizophrenia or bipolar disorder are advised to avoid psychedelics.",
+          "Without proper set and setting, even low doses can produce distressing experiences.",
+          "Screening and preparation in clinical settings exist specifically to minimize these risks.",
+          "The UC Berkeley Center for the Science of Psychedelics provides publicly accessible resources on understanding risk (psychedelics.berkeley.edu/understanding-risk)."
+        ],
+        "interaction_hint": "A side panel presents a balanced, evidence-based overview of psychedelic risks organized by category."
+      }
+    },
+    "N10": {
+      "id": "N10",
+      "title": "Learn More: Ayahuasca Ceremonies",
+      "type": "standard",
+      "entry_mode": "side_panel",
+      "continent": "indigenous-knowledge",
+      "summary": "An introduction to ayahuasca ceremonies as practiced by indigenous peoples in Central and South America, including their sacred structure and the role of trained healers.",
+      "content": {
+        "explanation": "Ayahuasca ceremonies are sacred practices with deep roots across Central and South America. Among the Shipibo people of the Peruvian Amazon, ceremonies have been conducted for centuries under the guidance of a trained healer called a curandero or onanya, who sings sacred songs called icaros to guide participants through the experience.",
+        "key_points": [
+          "Ayahuasca ceremonies are sacred practices with spiritual and cultural roots across Central and South America.",
+          "Among the Shipibo people of the Peruvian Amazon, ceremonies are led by a trained healer called a curandero or onanya.",
+          "The healer sings icaros — sacred songs — to guide participants through the experience.",
+          "These practices have been maintained and passed down across generations within their communities.",
+          "Approaching these traditions requires respect for their cultural context and origins."
+        ],
+        "interaction_hint": "A side panel and video introduce ayahuasca ceremony traditions, including footage of Shipibo healing practices."
+      }
+    },
+    "N11": {
+      "id": "N11",
+      "title": "POV: You're a molecule of DMT",
+      "type": "immersive",
+      "entry_mode": "full_screen",
+      "continent": "science",
+      "summary": "A first-person exploration of how DMT — a naturally occurring compound found in humans, plants, and animals — moves through and interacts with the body and mind.",
+      "content": {
+        "explanation": "N,N-Dimethyltryptamine (DMT) is a psychedelic compound that occurs naturally in the human body, as well as in many plant and animal species. Although its exact mechanisms are still being studied, DMT has been used ceremonially by various cultures for hundreds of years and is known for producing intense psychedelic effects.",
+        "key_points": [
+          "DMT is a naturally occurring compound found in humans, plants, and animals.",
+          "It has been used in ceremonial contexts by various peoples for centuries.",
+          "Scientists are still working to fully understand how DMT produces its effects in the body and brain.",
+          "DMT acts on serotonin receptors, among other mechanisms, to produce its psychedelic effects.",
+          "Its natural presence in the human body has made it a subject of ongoing scientific curiosity."
+        ],
+        "interaction_hint": "Users experience a fully immersive, first-person journey as a molecule of DMT traveling through the human body and mind."
+      }
+    },
+    "N12": {
+      "id": "N12",
+      "title": "Learn More: Psychedelic Research",
+      "type": "standard",
+      "entry_mode": "side_panel",
+      "continent": "science",
+      "summary": "An introduction to the growing landscape of clinical psychedelic research, including leading institutions like Johns Hopkins University and the Fonzo Lab at UT Austin.",
+      "content": {
+        "explanation": "Psychedelic research has re-emerged as a serious field of medicine. Rigorous clinical trials at institutions including Johns Hopkins University and the Fonzo Lab at UT Austin are testing how compounds like psilocybin, LSD, ibogaine, and ayahuasca can treat depression, PTSD, and addiction — with a particular focus on combat veterans.",
+        "key_points": [
+          "Johns Hopkins researchers are studying PTSD, addiction, and depression using psilocybin in randomized controlled trials.",
+          "The Fonzo Lab at UT Austin is running several studies testing psilocybin, LSD, ibogaine, and ayahuasca.",
+          "Many of the Fonzo Lab's studies focus specifically on combat veterans.",
+          "The best current research meets rigorous clinical standards, including randomized controlled trial designs.",
+          "Texas-based research is part of a national wave of renewed scientific interest in psychedelic medicine."
+        ],
+        "interaction_hint": "A side panel introduces ongoing clinical research with links to key institutions and studies for further reading."
+      }
+    },
+    "N13": {
+      "id": "N13",
+      "title": "POV: You're a molecule of psilocybin",
+      "type": "immersive",
+      "entry_mode": "full_screen",
+      "continent": "science",
+      "summary": "A first-person exploration of how psilocybin — a naturally occurring molecule found in over 200 mushroom species — works in the body and produces its psychedelic effects.",
+      "content": {
+        "explanation": "Psilocybin is produced by over 200 species of mushrooms found around the world. Once in the body, it is converted to psilocin, which acts primarily on serotonin receptors in the brain. Scientists have been studying it for decades as a potential treatment for depression, addiction, and other mental health conditions.",
+        "key_points": [
+          "Psilocybin occurs naturally in over 200 mushroom species distributed across the globe.",
+          "In the body, psilocybin is converted to psilocin, which primarily acts on serotonin receptors.",
+          "Humans have used psilocybin-containing mushrooms for thousands of years across many cultures.",
+          "Scientists are studying it as a potential treatment for depression, PTSD, addiction, and other conditions.",
+          "Its natural origin and measurable mechanisms make it a subject of serious clinical research."
+        ],
+        "interaction_hint": "Users take a fully immersive, first-person journey as a molecule of psilocybin moving through the human body and brain."
+      }
+    },
+    "N14": {
+      "id": "N14",
+      "title": "Set the Mood",
+      "type": "immersive",
+      "entry_mode": "modal",
+      "continent": "harm-reduction",
+      "summary": "An interactive tool that helps users explore the idea of setting by describing their intentions, then generates a personalized playlist to match their experience.",
+      "content": {
+        "explanation": "Set, setting, and integration are foundational to a meaningful psychedelic experience. This node gives users a hands-on way to think about preparation — by describing their intentions and ideal setting, and receiving a music playlist tailored to that vision.",
+        "key_points": [
+          "Intentional preparation — including music and environment — is considered important for psychedelic experiences.",
+          "Thinking through your intentions before an experience is itself a form of setting.",
+          "Music has been shown to influence the emotional tone and direction of psychedelic sessions.",
+          "Small acts of preparation, like curating a playlist, can meaningfully shape the experience."
+        ],
+        "interaction_hint": "Users describe their intended experience in a few words, and a Spotify playlist is generated to match their setting and intentions."
+      }
+    },
+    "N15": {
+      "id": "N15",
+      "title": "Did you know...",
+      "type": "callout",
+      "entry_mode": "tooltip",
+      "continent": "harm-reduction",
+      "summary": "A brief statistic about how common undiagnosed depression is in the United States — and how many people are living with it without knowing.",
+      "content": {
+        "explanation": "Many Americans experience depression without ever receiving a formal diagnosis. In a study of 200 adults, only about 39% had been told by a doctor they had depression — yet nearly half showed signs of moderate to severe depression based on standardized survey scores.",
+        "key_points": [
+          "Many people living with depression have never received a formal diagnosis from a doctor.",
+          "In a study of 200 adults, only ~39% had been told by a doctor they had depression.",
+          "Nearly half of the same group showed signs of moderate to severe depression based on survey scores.",
+          "Undiagnosed depression is a widespread public health concern in the United States."
+        ],
+        "interaction_hint": "A brief callout surfaces a key statistic about undiagnosed depression to provide context for why access to mental health treatment matters."
+      }
+    },
+    "N16": {
+      "id": "N16",
+      "title": "Learn more: Hikuri (Peyote) Traditions and Conservation",
+      "type": "standard",
+      "entry_mode": "side_panel",
+      "continent": "indigenous-knowledge",
+      "summary": "An introduction to the sacred role of hikuri (peyote) in Wixárika culture and the conservation challenges facing this plant as its population declines.",
+      "content": {
+        "explanation": "Hikuri, commonly known as peyote, is the most sacred plant of the Wixárika people. The Wixárika travel on pilgrimages to Wirikuta — their sacred desert — to gather hikuri for religious ceremonies. In recent years, peyote populations have been shrinking due to overuse, prompting urgent conservation work by the community.",
+        "key_points": [
+          "Hikuri (peyote) is the most sacred plant of the Wixárika people and central to their spiritual practice.",
+          "The Wixárika make pilgrimages to Wirikuta, a sacred desert, to gather hikuri for ceremonies.",
+          "Peyote populations have been declining due to overuse, creating an urgent conservation challenge.",
+          "The Wixárika community is actively developing and pursuing conservation plans to protect this plant.",
+          "Honoring indigenous traditions includes supporting the preservation of the plants central to those traditions."
+        ],
+        "interaction_hint": "A side panel and video introduce hikuri's cultural significance and the conservation efforts underway to protect it."
+      }
+    },
+    "N17": {
+      "id": "N17",
+      "title": "Hallo from Albert Hofmann",
+      "type": "immersive",
+      "entry_mode": "side_panel",
+      "continent": "personal-narrative",
+      "summary": "A simulated encounter with chemist Albert Hofmann — who first synthesized LSD and isolated psilocybin — told alongside the lesser-known story of María Sabina, whose sacred ceremony was exploited by a Western outsider.",
+      "content": {
+        "explanation": "Albert Hofmann first synthesized LSD in 1938 and isolated psilocybin in 1959 — two milestones that shaped modern psychedelic history. But that same era includes a darker story: in 1955, American R. Gordon Wasson deceived Mazatec sabia María Sabina to gain access to a sacred mushroom ceremony, then published about it widely. The commercialization that followed brought devastating consequences to Sabina and her community.",
+        "key_points": [
+          "LSD was first synthesized by Swiss chemist Albert Hofmann in 1938 from a compound derived from ergot fungus.",
+          "Hofmann also isolated psilocybin from the Psilocybe mexicana mushroom in 1959.",
+          "In 1955, R. Gordon Wasson became the first outsider to take part in a Mazatec sacred mushroom ceremony — by deceiving his host, María Sabina.",
+          "The sensationalization and commercialization that followed caused Sabina's community to be overrun by outsiders; her son was murdered, her house burned down, and she was briefly jailed.",
+          "This history is a story of extraction, cultural appropriation, bioprospecting, and colonization tied to the spread of psychedelic knowledge."
+        ],
+        "interaction_hint": "Users engage with a simulated Albert Hofmann avatar who shares the story of LSD and psilocybin's discovery — alongside its more complicated history."
+      }
+    },
+    "N18": {
+      "id": "N18",
+      "title": "Learn More: Texans for Greater Mental Health",
+      "type": "callout",
+      "entry_mode": "tooltip",
+      "continent": "literacy-island",
+      "summary": "A brief introduction to Texans for Greater Mental Health (T4GMH), a Texas nonprofit working to expand access to psychedelic medicine through policy advocacy and research funding.",
+      "content": {
+        "explanation": "Texans for Greater Mental Health (T4GMH) is a Texas nonprofit that works to change laws and fund research around psychedelic medicine. Their monthly Lunch and Learns at the State Capitol help educate policymakers. Their advocacy helped pass Texas House Bill 1802 in 2021 — the first publicly funded psychedelic research since the Controlled Substances Act — which has since inspired five other states and the federal government to follow.",
+        "key_points": [
+          "T4GMH is a Texas nonprofit advocating for psychedelic medicine access through law reform and research funding.",
+          "They host monthly Lunch and Learns at the Texas State Capitol to educate policymakers.",
+          "Their advocacy helped pass Texas House Bill 1802 in 2021 — a landmark for publicly funded psychedelic research.",
+          "HB 1802 has inspired similar efforts in five other states and at the federal level.",
+          "Their work has helped unlock nearly $100 million in psychedelic research funding nationally."
+        ],
+        "interaction_hint": "A brief callout introduces T4GMH and links to their website for users who want to learn more about their advocacy work."
+      }
+    },
+    "N19": {
+      "id": "N19",
+      "title": "Learn More: The Charmaine and Gordon McGill Center for Psychedelic Research and Therapy",
+      "type": "callout",
+      "entry_mode": "tooltip",
+      "continent": "science",
+      "summary": "A brief introduction to the McGill Center at UT Austin, which conducts psychedelic-assisted therapy research for depression, PTSD, and substance use disorders — with a focus on military veterans.",
+      "content": {
+        "explanation": "The Charmaine and Gordon McGill Center for Psychedelic Research and Therapy at UT Austin researches psychedelic-assisted therapy for depression, anxiety, PTSD, and substance use disorders. The center has a particular focus on military veterans and survivors of childhood trauma, and also uses AI tools to help clinicians personalize care for individual patients.",
+        "key_points": [
+          "The McGill Center is based at UT Austin's Dell Medical School.",
+          "Research focuses on depression, anxiety, PTSD, and substance use disorders.",
+          "The center has a particular focus on military veterans and survivors of childhood trauma.",
+          "Researchers also study the biological and psychological mechanisms behind psychedelic-assisted treatments.",
+          "The center uses AI to help doctors personalize care for individual patients."
+        ],
+        "interaction_hint": "A brief callout introduces the McGill Center with a link to their website for users interested in the research happening in Texas."
+      }
+    },
+    "N20": {
+      "id": "N20",
+      "title": "Leave a Story",
+      "type": "immersive",
+      "entry_mode": "side_panel",
+      "continent": "personal-narrative",
+      "summary": "A reflective space where users can write and share a brief personal story with others visiting the site.",
+      "content": {
+        "explanation": "Sharing your experience — even a small part of it — is a way of contributing to a larger conversation. This space invites users to leave a short story, reflection, or thought for others who visit after them.",
+        "key_points": [
+          "Users can write and submit a brief personal story or reflection.",
+          "Shared stories become part of the community experience on the site.",
+          "Reflecting on your own experience can be meaningful — whether or not you've had a psychedelic experience.",
+          "Reading others' stories can build empathy and expand understanding."
+        ],
+        "interaction_hint": "An interactive writing space where users can compose and submit a brief story to share with others on the site."
+      }
+    },
+    "N21": {
+      "id": "N21",
+      "title": "Meet the masterminds behind this awesome project",
+      "type": "immersive",
+      "entry_mode": "side_panel",
+      "continent": "literacy-island",
+      "summary": "An introduction to the Psychedelic Literacy Project and the three UT Austin graduate students who created it in partnership with Texans for Greater Mental Health.",
+      "content": {
+        "explanation": "The Psychedelic Literacy Project was created by Natasha Gengler, Kaitlyn Gehrman, and Alice Qiu — three graduate students in UT Austin's MA in Design Focused on Health program — as a capstone project in partnership with Texans for Greater Mental Health. The project is designed to make psychedelic education more accessible, honest, and rooted in real human experience.",
+        "key_points": [
+          "The Psychedelic Literacy Project is a graduate capstone from UT Austin's MA in Design Focused on Health program.",
+          "It was created in partnership with Texans for Greater Mental Health.",
+          "The project was designed and built by Natasha Gengler, Kaitlyn Gehrman, and Alice Qiu.",
+          "Its goal is to make psychedelic education more accessible, honest, and grounded in real human experience."
+        ],
+        "interaction_hint": "A side panel introduces the team and the story behind the project."
+      }
+    },
+    "N22": {
+      "id": "N22",
+      "title": "???",
+      "type": "immersive",
+      "entry_mode": "3d_scene",
+      "continent": "literacy-island",
+      "summary": "A hidden 3D space where users can meet the three creators of the Psychedelic Literacy Project and have short conversations about their backgrounds, process, and hopes for psychedelic literacy.",
+      "content": {
+        "explanation": "Step into a hidden 3D environment and meet Natasha Gengler, Kaitlyn Gehrman, and Alice Qiu — the graduate students behind the Psychedelic Literacy Project. Each creator's avatar offers a brief conversation about who they are, how they built this project, and what they hope it means for the future of psychedelic literacy.",
+        "key_points": [
+          "A 3D scene featuring interactive avatars of the three project creators.",
+          "Users can initiate short conversations with each creator.",
+          "Topics include their backgrounds, their creative process, and their vision for psychedelic literacy."
+        ],
+        "interaction_hint": "Users explore a 3D scene and start short dialogues with the project creators through interactive avatars."
+      }
+    }
+  },
+  "personas": {
+    "robert": {
+      "name": "Robert",
+      "archetype": "By-the-Book Veteran",
+      "beats": [
+        {
+          "beat": 1,
+          "text": "I grew up in a military family during the War on Drugs. I believed in the system completely because it was the only world I knew. Rules, lines — these things existed for a reason, and you just didn't cross them.",
+          "node": "N01"
+        },
+        {
+          "beat": 2,
+          "text": "I served in Afghanistan, then I spent twenty years in law enforcement. Psychedelics weren't just off the table for me — they were what I put other people in handcuffs for.",
+          "node": null
+        },
+        {
+          "beat": 3,
+          "text": "But I carried the weight of what I'd seen the way those in my profession were expected to: quietly and alone. When it finally caught up with me, I turned to alcohol. I went through treatment programs. I tried medication and structure. Nothing ever reached the root of it. After a while, it started to feel like I was running out of options.",
+          "node": "N02"
+        },
+        {
+          "beat": 4,
+          "text": "I kept thinking about an old military buddy who had become a psychedelic guide. I'd thought he was out of his mind when he first told me. But something compelled me to call him, and that one call forced me to question everything I thought I knew.",
+          "node": "N03"
+        },
+        {
+          "beat": 5,
+          "text": "He connected me with an organization working with veterans using ibogaine and 5-MeO-DMT for PTSD and alcohol use disorder. I won't pretend I wasn't terrified. I had spent two decades enforcing the laws that made this illegal. Sitting in that room felt like becoming someone I didn't recognize.",
+          "node": "N04"
+        },
+        {
+          "beat": 6,
+          "text": "During my first guided experience, I was confronted with the pain I had caused my family. For the first time, I was able to see my actions from their perspective. I could see how my habits not only affected myself, but the loved ones in my life as well.",
+          "node": "N05"
+        },
+        {
+          "beat": 7,
+          "text": "My experience was eye-opening, and the changes I felt were near instantaneous. I no longer felt the need to turn to alcohol. The experience didn't cure me, but it gave me a deeper understanding of myself and showed me that I had the power and tools I needed all along. The therapy, the structure, the daily effort — none of that changed. But I had, and that made all the difference.",
+          "node": "N06"
+        },
+        {
+          "beat": 8,
+          "text": "Today, I don't feel defined by my past anymore. I feel called to share my experience with others who may be dealing with similar issues, and show that there are other options out there.",
+          "node": "N07"
+        },
+        {
+          "beat": 9,
+          "text": "When I look around at the men I served with in the military and law enforcement, I see a lot of them struggling the way I once did. I want them to know what I know now — that reaching the limits of the system you trusted isn't failure. Sometimes it's the beginning of actually getting better.",
+          "node": "N08"
+        }
+      ]
+    },
+    "isabel": {
+      "name": "Isabel",
+      "archetype": "Initially Reluctant Supporter",
+      "beats": [
+        {
+          "beat": 1,
+          "text": "I've always been a rule-follower. I grew up hearing 'Don't do drugs!' from my parents and that drugs were bad through DARE. Even when close friends experimented with weed and alcohol, I stayed away. Part of it was discipline, but part of it was also fear.",
+          "node": "N01"
+        },
+        {
+          "beat": 2,
+          "text": "In high school, a classmate had a bad trip on acid and never seemed the same after. His story stuck with me. It made psychedelics seem risky and unpredictable.",
+          "node": "N09"
+        },
+        {
+          "beat": 3,
+          "text": "At the same time, I've dealt with depression and anxiety for most of my life. I've worked hard to manage it — therapy, routines, and various medications at different points. It took a lot of trial and error to feel stable, so protecting that stability matters deeply to me.",
+          "node": null
+        },
+        {
+          "beat": 4,
+          "text": "When a close friend told me he wanted to sit with Ayahuasca for his mental health, I didn't take it seriously — I thought it sounded like an excuse. I had never heard of people using psychedelics as a mental health treatment, and I felt genuinely concerned for his safety.",
+          "node": "N10"
+        },
+        {
+          "beat": 5,
+          "text": "The next time I saw my friend, he described his experience and what he had gained from it. I was happy for him, yet I still didn't fully understand. But over a few months, I noticed real changes. He seemed calmer, more present, more like himself. Seeing those improvements made me more curious about psychedelic medicine.",
+          "node": "N11"
+        },
+        {
+          "beat": 6,
+          "text": "I started doing my own research. I read studies from places like the University of Texas at Austin and Johns Hopkins University. I listened to doctors explain how psychedelics are used with therapy, not on their own.",
+          "node": "N12"
+        },
+        {
+          "beat": 7,
+          "text": "I learned about screening, preparation, and follow-up care. I also read about the risks. That part still matters to me.",
+          "node": "N05"
+        },
+        {
+          "beat": 8,
+          "text": "I don't see myself using psychedelics. That hasn't changed. But I understand now that for some people, they can help in a real way. I fully support my friend and anyone else trying to find what works for them.",
+          "node": null
+        },
+        {
+          "beat": 9,
+          "text": "My story is about showing up for those who do use psychedelics for their mental health, and accepting that — while you may not fully understand their experience — you can have compassion and respect. Being there for someone is one of the most impactful parts of their mental health journey, especially for those exploring psychedelic treatment options.",
+          "node": "N08"
+        }
+      ]
+    },
+    "zoe": {
+      "name": "Zoe",
+      "archetype": "Intentional Revisitor",
+      "beats": [
+        {
+          "beat": 1,
+          "text": "I've struggled with anxiety all my life and started therapy for it about five years ago. I had done real work in therapy and also tried SSRIs, but I only saw minor improvements and never found the exact medication that worked well for me. There was still this layer I couldn't work through.",
+          "node": null
+        },
+        {
+          "beat": 2,
+          "text": "One day, I saw a documentary called 'How to Change Your Mind' on Netflix. The idea that psilocybin could help break through deep-seated mental patterns stopped me in my tracks. But I was skeptical, and I had reason to be.",
+          "node": "N06"
+        },
+        {
+          "beat": 3,
+          "text": "As a teenager, I had tried magic mushrooms on a camping trip with friends. It was supposed to be a light and fun experience. Everyone seemed to have a great time, but I didn't. Something felt off, and I couldn't explain why. I walked away thinking maybe psychedelics just weren't for me.",
+          "node": "N09"
+        },
+        {
+          "beat": 4,
+          "text": "The documentary reframed everything. What was missing that first time wasn't courage or the right dose — it was intention. Set, setting, integration: none of that had been part of it. My first psychedelic experience had just been something that happened to me, not something I'd chosen carefully. The difference between those two things, I was starting to understand, was everything.",
+          "node": "N05"
+        },
+        {
+          "beat": 5,
+          "text": "So I spent two months reading and learning — how psilocybin works, what conditions actually make a difference, what responsible use looks like. I wanted to feel reasonably informed, not just reassured.",
+          "node": "N13"
+        },
+        {
+          "beat": 6,
+          "text": "When I finally felt ready, I blocked off an entire Saturday. I cleaned my apartment, made a playlist, and wrote down what I was hoping to understand. Then I took the medicine.",
+          "node": "N14"
+        },
+        {
+          "beat": 7,
+          "text": "What came up was grief. Not new grief, but something I hadn't connected to my anxiety before. It wasn't comfortable, but it felt honest in a way I couldn't ignore. Afterward, I wrote for an hour while everything was still fresh.",
+          "node": null
+        },
+        {
+          "beat": 8,
+          "text": "I brought those notes to my next therapy session. My therapist and I spent the next few sessions working through what had surfaced, making sense of things in a way I hadn't been able to before.",
+          "node": null
+        },
+        {
+          "beat": 9,
+          "text": "Over the following weeks, I noticed something subtle but real. That layer I hadn't been able to reach before had shifted.",
+          "node": null
+        },
+        {
+          "beat": 10,
+          "text": "I still have anxiety. I'm not looking for a cure. I'm looking for tools that help me understand myself. And for me, psychedelics have become one of them.",
+          "node": "N08"
+        }
+      ]
+    },
+    "jordan": {
+      "name": "Jordan",
+      "archetype": "Cultural Returner",
+      "beats": [
+        {
+          "beat": 1,
+          "text": "I've felt a kind of heaviness since I was a teenager. I never stopped to examine it. Instead, I built things: businesses, routines, a life that looked, from the outside, like it was working.",
+          "node": "N15"
+        },
+        {
+          "beat": 2,
+          "text": "For a while, it was enough. But over time the motion stopped helping. Everything on paper was going right — the businesses were growing, my social life was full, and I was close to buying my parents a new home. Yet I felt completely empty. I didn't have a name for it. I just knew something was wrong, and I didn't know how to slow down long enough to find out what.",
+          "node": null
+        },
+        {
+          "beat": 3,
+          "text": "I decided to take time off and visit my grandparents in Mexico. I needed to get out of my own life for a moment. What I didn't expect was to find something waiting for me there.",
+          "node": null
+        },
+        {
+          "beat": 4,
+          "text": "My grandparents introduced me more fully to our Wixárika heritage — something I had grown up knowing only in fragments. They shared healing practices that had been part of our tradition for generations, including the ceremonial use of hikuri, more commonly known as peyote.",
+          "node": "N04"
+        },
+        {
+          "beat": 5,
+          "text": "I chose to participate in a ceremony. Not as an escape, but as an act of returning to something that belonged to me. I approached it with preparation, respect, and guidance from people who had held this knowledge their whole lives.",
+          "node": "N16"
+        },
+        {
+          "beat": 6,
+          "text": "What happened during that ceremony is difficult to put into words. For the first time in as long as I could remember, the heaviness lifted. I felt connected to something larger than the facade I had been exhausting myself trying to maintain.",
+          "node": null
+        },
+        {
+          "beat": 7,
+          "text": "The experience didn't cure anything, but it changed my relationship to what I had been carrying in a way that was real and lasting. I came home different: calmer and more honest with myself about what I actually needed.",
+          "node": null
+        },
+        {
+          "beat": 8,
+          "text": "I stopped running from my thoughts. I let the people closest to me in. I told them what I had been going through, and for the first time in a long time, I didn't try to make what I was feeling smaller than it was. I just let it be true.",
+          "node": null
+        },
+        {
+          "beat": 9,
+          "text": "Today, I run my businesses and feel more at home in my own life than I ever have. I stay close to my grandparents and the traditions they kept alive for me. I don't see the ceremony as the beginning of my healing journey — I see it as a form of healing that was whole on its own. One my ancestors understood long before any of the frameworks I'd been handed growing up.",
+          "node": "N08"
+        }
+      ]
+    },
+    "cristina": {
+      "name": "Dr. Cristina Salazar",
+      "archetype": "Frustrated Healthcare Professional",
+      "beats": [
+        {
+          "beat": 1,
+          "text": "I always knew I was interested in how the brain worked. That curiosity drove me to study neuroscience and psychology at UT Austin.",
+          "node": null
+        },
+        {
+          "beat": 2,
+          "text": "I took my studies seriously, but I still experimented with new substances like a lot of my peers. This led me to trying acid with some of my friends. I had a fun time, but it wasn't something I'd think much about again. At the time, it felt more like a one-off experience rather than something meaningful.",
+          "node": "N17"
+        },
+        {
+          "beat": 3,
+          "text": "Then, in my upper-level courses, something clicked. We started covering psychedelics not as recreation or cautionary tales, but as pharmacological compounds with measurable effects on brain networks — compounds that early research suggested could produce lasting therapeutic change in ways that existing treatments simply couldn't.",
+          "node": "N13"
+        },
+        {
+          "beat": 4,
+          "text": "I started reading papers on my own and following new studies as they came out. The more I read, the harder it was to look away from how promising the results were, and how rigorous the best research had become.",
+          "node": "N12"
+        },
+        {
+          "beat": 5,
+          "text": "I realized then that I didn't just want to study these medicines. I wanted to be the doctor prescribing them. I went to medical school with that goal in mind.",
+          "node": null
+        },
+        {
+          "beat": 6,
+          "text": "A Lunch and Learn at the State Capitol during my time in medical school changed the trajectory of my training. I found out that some of the most important psychedelic research in the country was happening right at my own university. That made the field feel urgent in a way it hadn't before.",
+          "node": "N18"
+        },
+        {
+          "beat": 7,
+          "text": "I learned about the Charmaine and Gordon McGill Center for Psychedelic Research and Therapy there, and it inspired me to pursue my residency in psychiatry.",
+          "node": "N19"
+        },
+        {
+          "beat": 8,
+          "text": "Now, as a licensed psychiatrist, I sit across from patients with treatment-resistant depression, PTSD, and anxiety who have tried every medication a pharmacy can offer and are still suffering.",
+          "node": null
+        },
+        {
+          "beat": 9,
+          "text": "I know there are compounds that could reach these patients in ways that current treatments haven't and won't. And I can't prescribe them — not because the science isn't there, but because the law hasn't caught up to it yet. That gap is the hardest part of this work.",
+          "node": "N01"
+        },
+        {
+          "beat": 10,
+          "text": "So beyond my clinical practice, I advocate for legal and clinical access to psychedelic medicine. I talk to policymakers about ibogaine-assisted therapy for PTSD. I support psilocybin research for treatment-resistant depression. I try to move the conversation forward wherever I can. I believe access to these treatments is a matter of equity and compassion, not just science. The evidence is ready. I'm trying to help everything else get there too.",
+          "node": "N08"
+        }
+      ]
+    }
+  }
+}

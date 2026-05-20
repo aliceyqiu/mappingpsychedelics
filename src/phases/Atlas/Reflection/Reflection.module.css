@@ -1,0 +1,136 @@
+.midBanner {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 1rem 1.5rem;
+  z-index: calc(var(--z-overlay) - 5);
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  max-width: 480px;
+  width: calc(100% - 4rem);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+}
+
+.midText {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  flex: 1;
+  line-height: 1.45;
+}
+
+.midDismiss {
+  color: var(--color-text-dim);
+  font-size: 0.78rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.midDismiss:hover {
+  color: var(--color-text-muted);
+}
+
+/* ── End Reflection ── */
+.endContainer {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-bg);
+  z-index: var(--z-overlay);
+  padding: 2rem;
+}
+
+.endCard {
+  max-width: 520px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.endHeading {
+  font-family: var(--font-serif);
+  font-size: clamp(1.4rem, 4vw, 2rem);
+  font-weight: 300;
+  line-height: 1.3;
+  color: var(--color-text);
+}
+
+.wordComparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.wordBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.wordBlockLabel {
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-dim);
+}
+
+.wordBlockWord {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: var(--color-text);
+  font-style: italic;
+}
+
+.wordInput {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-size: 1.5rem;
+  font-weight: 300;
+  font-style: italic;
+  padding: 0.35rem 0;
+  width: 100%;
+  outline: none;
+  transition: border-color var(--transition-base);
+  caret-color: var(--color-text);
+}
+
+.wordInput::placeholder {
+  color: var(--color-text-dim);
+}
+
+.wordInput:focus {
+  border-bottom-color: rgba(255,255,255,0.4);
+}
+
+.endActions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.revisitBtn {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  padding: 0.65rem 1.5rem;
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+
+.revisitBtn:hover {
+  color: var(--color-text);
+  border-color: rgba(255,255,255,0.3);
+}

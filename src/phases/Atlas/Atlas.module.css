@@ -1,0 +1,34 @@
+.layout {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.layout.personaMode {
+  grid-template-columns: 425px 1fr;
+}
+
+.personaSide {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.mapSide {
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .layout.personaMode {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+  }
+
+  .personaSide {
+    height: auto;
+    max-height: 45vh;
+  }
+}

@@ -1,0 +1,81 @@
+/* SVG continent element transitions */
+.continent-base,
+.continent-stroke,
+.continent-label {
+  transition: opacity 0.25s ease, stroke-width 0.25s ease;
+}
+
+.continent-label {
+  fill: var(--continent-label);
+  font-family: var(--font-sans);
+  font-weight: 500;
+  text-anchor: middle;
+  dominant-baseline: middle;
+  opacity: 1;
+  pointer-events: none;
+}
+
+[data-continent] {
+  cursor: pointer;
+}
+
+[data-continent="history"] {
+  --continent-primary: white;
+  --continent-secondary: #3d4fd6;
+  --continent-fill-opacity: 0.9;
+  --continent-stroke: rgba(255, 255, 255, 0.4);
+  --continent-node-color: var(--history-teal-muted);
+  --continent-color: var(--history-teal);
+  --continent-glow: #758bfd;
+}
+
+[data-continent="science"] {
+  --continent-primary: white;
+  --continent-secondary: #3d4fd6;
+  --continent-fill-opacity: 0.9;
+  --continent-stroke: rgba(255, 255, 255, 0.4);
+  --continent-node-color: var(--science-yellow-muted);
+  --continent-color: var(--science-yellow);
+  --continent-glow: #758bfd;
+}
+
+[data-continent="harm-reduction"] {
+  --continent-primary: white;
+  --continent-secondary: #3d4fd6;
+  --continent-fill-opacity: 0.9;
+  --continent-stroke: rgba(255, 255, 255, 0.4);
+  --continent-node-color: var(--harm-purple-muted);
+  --continent-color: var(--harm-purple);
+  --continent-glow: #758bfd;
+}
+
+[data-continent="indigenous-knowledge"] {
+  --continent-primary: white;
+  --continent-secondary: #3d4fd6;
+  --continent-fill-opacity: 0.9;
+  --continent-stroke: rgba(255, 255, 255, 0.4);
+  --continent-node-color: var(--indigenous-orange-muted);
+  --continent-color: var(--indigenous-orange);
+  --continent-glow: #758bfd;
+}
+
+[data-continent="personal-narrative"] {
+  --continent-primary: white;
+  --continent-secondary: #3d4fd6;
+  --continent-fill-opacity: 0.9;
+  --continent-stroke: rgba(255, 255, 255, 0.4);
+  --continent-node-color: var(--narrative-pink-muted);
+  --continent-color: var(--narrative-pink);
+  --continent-glow: #758bfd;
+}
+
+/* Easter egg island — slightly more ethereal */
+[data-continent="literacy-island"] {
+  --continent-primary: white;
+  --continent-secondary: #3d4fd6;
+  --continent-fill-opacity: 0.7;
+  --continent-stroke: rgba(255, 255, 255, 0.25);
+  --continent-node-color: var(--plp-blue-muted);
+  --continent-color: var(--plp-blue);
+  --continent-glow: #aab4fe;
+}
