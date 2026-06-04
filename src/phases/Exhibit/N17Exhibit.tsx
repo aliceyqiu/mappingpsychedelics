@@ -447,8 +447,6 @@ const DIALOGUE: { q: string; a: string }[] = [
   },
 ];
 
-useGLTF.preload(bicycleUrl);
-
 // ── Scene root ────────────────────────────────────────────────────────────────
 
 interface Props {
