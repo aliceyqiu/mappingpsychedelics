@@ -22,4 +22,8 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"]
+  "compilerOptions": {
+    "noUnusedLocals": false,
+    ...
+  }
 }
