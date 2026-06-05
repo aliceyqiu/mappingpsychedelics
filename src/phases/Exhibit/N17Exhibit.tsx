@@ -3,7 +3,6 @@ import { Canvas, useFrame } from '@react-three/fiber';
 import { PointerLockControls, Text, useTexture, useGLTF } from '@react-three/drei';
 import * as THREE from 'three';
 import blackboardUrl from '../../assets/blackboard.png';
-import bicycleUrl from '../../assets/old_bicycle.glb?url';
 import mariaSabinaUrl from '../../assets/maria_sabina.png';
 import bicycleDayUrl from '../../assets/bicycle_day.png';
 import styles from './N17Exhibit.module.css';
@@ -298,18 +297,6 @@ function HofmannFigure({ onActivate }: { onActivate: () => void }) {
   );
 }
 
-function Bicycle() {
-  const { scene } = useGLTF(bicycleUrl);
-  return (
-    <primitive
-      object={scene}
-      position={[4.2, 0.6, -4.2]}
-      scale={1}
-      rotation={[0, -Math.PI * 0.6, 0]}
-    />
-  );
-}
-
 function FramedPainting({ textureUrl, position, rotation, width, height }: {
   textureUrl: string;
   position: [number, number, number];
@@ -492,7 +479,6 @@ export default function N17Exhibit({ onBack }: Props) {
         <Stool />
         <Bookshelf />
         <HofmannFigure onActivate={() => { setDialogueOpen(true); setActiveIdx(null); }} />
-        <Bicycle />
         <FramedPainting
           textureUrl={mariaSabinaUrl}
           position={[-5.88, 2.1, -1.5]}
